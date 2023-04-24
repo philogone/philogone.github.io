@@ -32,6 +32,7 @@
           <li><a href="generic.html">Mon Histoire</a></li>
           <li><a href="generic.html">Presse</a></li>
           <li><a href="generic.html">Entretien</a></li>
+          <li><a href="elements.html">Elements Reference</a></li>
         </ul>
         <ul class="icons">
           <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
